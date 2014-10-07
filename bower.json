@@ -1,0 +1,13 @@
+{
+	"name": "facebookAuth",
+	"description": "open source fb app",
+	"version": "0.0.1",
+	"author": "Satish Agarwal",
+	"dependencies":{
+		"bootstrap": "latest",
+		"font-awesome": "latest",
+		"animate.css": "latest",
+		"angular": "latest",
+		"angular-route": "latest"
+	}
+}
